@@ -1,0 +1,27 @@
+Santiago Soto Parcial 1 Desarrollo de SotfWare
+Resultado Json
+{seresvivos:{[{perro:{nombre:Chester,color:Negro,pedad:8,tipoanimal:Carnivoro}}, 
+{perro:{nombre:Roku,color:Cafe,pedad:10,tipoanimal:Carnivoro}}, 
+{brocoli:{nombre:Brocoli calabrese,color:Verde,pedad:0.3,tipovegetal:Verdura}}]}
+}
+Conversion a XML
+<seresvivos>
+	<perro>
+		<nombre>Chester</nombre>
+		<color>Negro</color>
+		<pedad>8</pedad>
+		<tipoanimal>Carnivoro</tipoanimal>
+	</perro>
+	<perro>
+		<nombre>Roku</nombre>
+		<color>Cafe</color>
+		<pedad>10</pedad>
+		<tipoanimal>Carnivoro</tipoanimal>
+	</perro>
+	<brocoli>
+		<nombre>Brocoli Calabrese</nombre>
+		<color>Verde</color>
+		<pedad>0.3</pedad>
+		<tipovegetal>Verdura</tipovegetal>
+	</brocoli>
+</seresvivos>
